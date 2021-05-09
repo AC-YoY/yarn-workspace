@@ -1,0 +1,13 @@
+{
+  "name": "workspace-a1",
+  "version": "1.0.2",
+  "description": "test",
+  "dependencies": {
+    "aaa": "^0.0.2",
+    "cross-env": "5.0.5"
+  },
+  "author": {
+    "name": "zhaojiancang",
+    "email": "zhaojiancang@shizhuang-inc.com"
+  }
+}
